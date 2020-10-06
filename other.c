@@ -2,6 +2,7 @@
 
 int other_func(int num)
 {
-	printf("branck_1")
+
+	printf("fixed_branck_1")
 	return num*num;
 }
