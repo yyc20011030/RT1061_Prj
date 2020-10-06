@@ -3,6 +3,9 @@
 int main(int argc, char * argv[])
 {
 	
-	printf("main");
+ 
+	printf("main+other"); 
+	 
+ 
 	return 0;
 }
